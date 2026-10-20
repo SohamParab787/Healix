@@ -3,3 +3,6 @@ backend/serviceaccountKey.json
 frontend/node_modules
 backend/node_modules
 frontend/.env
+# Exclude project image and screenshots
+curo.png
+screenshots/
